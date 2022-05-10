@@ -1,1 +1,0 @@
-Refer to 00_Setup_Instructions.ipnyb for instructions for setting up the data folder 
